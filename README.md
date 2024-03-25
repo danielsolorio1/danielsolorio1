@@ -36,7 +36,7 @@ A **Software Engineering** 🚀 from Uruapan, México.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a TSA at CAPASU.
+- 👨🏽‍💻 I'm working as an application developer at capasu.
 - 🌱 I'm currently exploring switf since I am interested in that type of development.
 - 🤔 My interests are work responsibilities, video games and movies.
 - 💼 I have already finished my engineering.
