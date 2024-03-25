@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Daniel!</h3>
 
 
 <a href="https://www.instagram.com/danielsolorioc_/">
@@ -36,12 +36,12 @@ A **Software Engineering** 🚀 from Uruapan, México.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 👨🏽‍💻 I’m currently working as a TSA at CAPASU.
+- 🌱 I'm currently exploring switf since I am interested in that type of development.
+- 🤔 My interests are work responsibilities, video games and movies.
+- 💼 I have already finished my engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
+- 📫 Email me at [danisolcha23@gmail.com](danisolcha23@gmail.com).
 <!--- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. --->
 
 
