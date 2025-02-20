@@ -41,8 +41,8 @@ A **Software Engineering** 🚀 from Uruapan, México.
 - 🤔 My interests are work responsibilities, video games and movies.
 - 💼 I have already finished my engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [danisolcha23@gmail.com](carlosdanielssolorio@gmail.com).
-- My porfolio [portafolio-danieldev.zeabur.app](https://portafolio-omega-ruby.vercel.app/)
+- 📫 Email me at [carlosdanielssolorio@gmail.com](carlosdanielssolorio@gmail.com).
+- My porfolio [https://portafolio-omega-ruby.vercel.app/](https://portafolio-omega-ruby.vercel.app/)
 <!--- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. --->
 
 
